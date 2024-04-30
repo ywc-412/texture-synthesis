@@ -453,7 +453,7 @@ Example: `cargo run --release -- -o out/output.png flip-and-rotate imgs/1.jpg`
   * **Or** if you wish to see the texture as it is being synthesized `cargo install --path=cli --features="progress"`
 * Open a terminal
 * Navigate to the directory where you downloaded the binary, if you didn't just `cargo install` it
-* Run `texture_synthesis --help` to get a list of all of the options and commands you can run
+* Run `texture-synthesis --help` to get a list of all of the options and commands you can run
 * Refer to the examples section in this readme for examples of running the binary
 
 ## Notes
